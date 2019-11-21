@@ -1,6 +1,6 @@
 ![College Logo](https://www.gndec.ac.in/logo.png)
 
-# **PROGRAMMING FOR PROGRAM SOLVING ESC-18105**
+# **PROGRAMMING FOR PROBLEM SOLVING ESC-18105**
 ## **NAME - KHUSHMEET KAUR**
 ## **ROLL NO - 1914064**
 ## **SECTION - CE(B1)**
